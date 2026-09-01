@@ -23,6 +23,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0007-reverse-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
