@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0007-reverse-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
