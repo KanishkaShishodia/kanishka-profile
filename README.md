@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
@@ -40,6 +41,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
