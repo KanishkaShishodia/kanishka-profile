@@ -11,6 +11,7 @@
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
