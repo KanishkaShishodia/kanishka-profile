@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0520-detect-capital](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
@@ -44,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
