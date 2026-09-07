@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2057-smallest-index-with-equal-value) |
@@ -21,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -51,12 +53,14 @@
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
@@ -103,4 +107,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3903-smallest-stable-index-i) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
