@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2057-smallest-index-with-equal-value) |
@@ -47,10 +48,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
