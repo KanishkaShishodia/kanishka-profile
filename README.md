@@ -34,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
