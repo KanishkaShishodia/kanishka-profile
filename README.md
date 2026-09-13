@@ -36,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
@@ -63,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0326-power-of-three) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
