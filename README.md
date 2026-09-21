@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0344-reverse-string) |
