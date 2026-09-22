@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
