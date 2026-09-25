@@ -41,6 +41,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
@@ -55,6 +56,7 @@
 | [0007-reverse-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
