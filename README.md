@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0283-move-zeroes) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0704-binary-search) |
 ## Recursion
