@@ -104,6 +104,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0191-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
