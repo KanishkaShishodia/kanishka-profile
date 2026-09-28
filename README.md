@@ -51,6 +51,7 @@
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -160,4 +161,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
