@@ -70,6 +70,7 @@
 | [0258-add-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -128,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -185,4 +188,8 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
