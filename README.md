@@ -77,6 +77,7 @@
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -180,4 +181,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
