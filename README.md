@@ -72,6 +72,7 @@
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
@@ -187,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1323-maximum-69-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Memoization
 |  |
