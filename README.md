@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +130,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -174,6 +177,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0509-fibonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
