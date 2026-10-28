@@ -22,6 +22,7 @@
 | [0832-flipping-an-image](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
