@@ -1,16 +1,13 @@
 {
-  "name": "assignment1",
+  "name": "lab1",
   "version": "1.0.0",
   "description": "",
-  "main": "q1_bell_system.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "type": "module"
 }
