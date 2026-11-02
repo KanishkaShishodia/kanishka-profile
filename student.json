@@ -1,0 +1,24 @@
+ [ {
+    "id": 1,
+    "name": "Kanishka",
+    "marks": 88
+  },
+  {
+    "id": 2,
+    "name": "Rohit",
+    "marks": 78
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "marks": 95
+  },
+  {
+    "id": 4,
+    "name": "Anjali",
+    "marks": 92
+  }
+]
+
+
+
