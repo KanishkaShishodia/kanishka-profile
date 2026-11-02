@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0189-rotate-array) |
@@ -134,6 +135,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
