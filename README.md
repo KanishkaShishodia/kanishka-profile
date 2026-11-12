@@ -34,6 +34,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2239-find-closest-number-to-zero](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -119,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
