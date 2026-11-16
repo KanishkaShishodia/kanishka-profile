@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
