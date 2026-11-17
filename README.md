@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -242,4 +243,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
