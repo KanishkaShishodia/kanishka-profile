@@ -252,6 +252,7 @@
 | [0098-validate-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,8 +267,10 @@
 | [0098-validate-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
