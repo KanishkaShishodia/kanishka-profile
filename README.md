@@ -29,6 +29,7 @@
 | [1920-build-array-from-permutation](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
