@@ -76,6 +76,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3136-valid-word](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
