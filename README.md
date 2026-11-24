@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0657-robot-return-to-origin) |
@@ -112,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@
 | [0217-contains-duplicate](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
@@ -145,6 +148,7 @@
 | ------- |
 | [0136-single-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
