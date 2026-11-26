@@ -101,6 +101,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3875-construct-uniform-parity-array-i) |
@@ -142,6 +143,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
