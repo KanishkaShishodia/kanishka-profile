@@ -26,6 +26,7 @@
 | [1470-shuffle-the-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1550-three-consecutive-odds) |
+| [1732-find-the-highest-altitude](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/KanishkaShishodia/kanishka-profile/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
